@@ -41,14 +41,7 @@ A retrieval-augmented generation application designed to help Rutgers Business S
 ### 2. InstaSecure — PPE Detection
 A computer vision project using YOLOv8 to detect personal protective equipment (PPE), demonstrating object detection and AI-based safety monitoring.
 
-### 3. Case Medical — Procurement & Inventory Analysis
-An industry client project focused on analyzing purchasing patterns and inventory management.
-
-- Examines purchasing frequency and order quantities.
-- Investigates inventory and potential overstocking patterns.
-- Explores data-driven opportunities to improve procurement decisions.
-
-### 4. TradoCompanion — B2B E-Commerce
+### 3. TradoCompanion — B2B E-Commerce
 A Django-based B2B e-commerce project that earned **Second Prize**.
 
 - Demonstrates web application development and business-focused problem solving.
