@@ -36,7 +36,7 @@ A retrieval-augmented generation application designed to help Rutgers Business S
 - Uses a Streamlit interface for an accessible question-answering experience.
 - Demonstrates practical applications of LLMs and information retrieval.
 
-🔗 [Try RUStudentAssist](https://llmprojectgroup3.streamlit.app/)
+🔗 [Try RU Student Assistant](https://llmprojectgroup3.streamlit.app/)
 
 ### 2. InstaSecure — PPE Detection
 A computer vision project using YOLOv8 to detect personal protective equipment (PPE), demonstrating object detection and AI-based safety monitoring.
